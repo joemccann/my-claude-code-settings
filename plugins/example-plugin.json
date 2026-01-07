@@ -1,0 +1,10 @@
+{
+  "name": "Example Plugin",
+  "description": "Example plugin for Claude Code",
+  "version": "1.0.0",
+  "enabled": true,
+  "options": {
+    "feature1": true,
+    "feature2": false
+  }
+}
