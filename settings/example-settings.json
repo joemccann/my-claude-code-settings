@@ -1,0 +1,9 @@
+{
+  "name": "Example Settings",
+  "description": "Example configuration for Claude Code",
+  "version": "1.0.0",
+  "settings": {
+    "autoSave": true,
+    "theme": "default"
+  }
+}
